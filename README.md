@@ -1,5 +1,7 @@
 # MHKS
 The code of “Hierarchical Knowledge Stripping for Multimodal Sentiment Analysis”.
+![MHKS_framework](https://github.com/user-attachments/assets/a6b01555-9b1b-4449-94aa-5b43c79c53bf)
+
 
 ## Dataset
 Download: https://pan.baidu.com/s/1MMT-fkYdTWvSEn0qSFLByg?pwd=mhks
